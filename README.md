@@ -8,7 +8,7 @@
     pip install segno
 <h3>2. reportlab - create Canvas </h3>
 
-    pip instal reportlab
+    pip install reportlab
  
 <h3>3. Database - Create Purchase Table </h3>
 <table>
