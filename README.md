@@ -68,5 +68,5 @@
 
 # Result
 
-<img src="/checks/check1.pdf" alt="qr_code">
+<a href="/checks/check1.pdf">Check</a>  👈 
 
